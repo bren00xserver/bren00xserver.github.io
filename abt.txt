@@ -1,0 +1,10 @@
+Unique Account Serial Number: 03f4-cf53-d346-416b-aaea
+
+Number of Licenses: 19
+
+Startup password: control  
+password for all: control
+
+
+
+
